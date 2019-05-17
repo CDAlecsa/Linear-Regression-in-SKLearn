@@ -9,5 +9,3 @@ This a repository which contains some linear regression analysis. It contains th
 - linear regression on each highly correlated relevant feature
 - validation curve
 - learning curve
-
-# Copyright © 2019 Cristian Daniel Alecsa
